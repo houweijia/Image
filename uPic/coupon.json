@@ -1,0 +1,16 @@
+{
+	"code": 0,
+	"message": "成功",
+	"data": {
+		"ad": null,
+		"industry": [{
+			"sceneName": "1",
+			"scene": 3,
+			"couponIndustry": ["婚纱摄影展", "旅拍婚纱照展", "新娘造型展", "四大金刚展", "结婚百货展", "旅拍展", "婚嫁首饰展", "展会专项卷", "旅拍", "喜宴酒店", "芭莎券"],
+			"industryCateIdList": ["2065", "2278", "2110", "1160", "1100", "2071", "1060", "0", "1000", "1080", "1040"],
+			"industryNameList": null
+		}]
+	},
+	"serviceTime": 1632986444,
+	"success": true
+}
